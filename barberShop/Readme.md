@@ -1,4 +1,3 @@
-```markdown
 # Barber Shop Website
 
 ## Overview
@@ -23,12 +22,6 @@ This project involves a fully responsive website developed for a barber shop. Th
 1. Clone the repository:
    ```bash
    git clone [repository-url]
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd barber-shop-website
-   ```
-3. Open `index.html` in your browser to view the website.
 
 ## Usage
 
