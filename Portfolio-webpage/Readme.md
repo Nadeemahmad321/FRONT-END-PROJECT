@@ -22,5 +22,5 @@ Visitors can easily navigate through the site to view information about my skill
 
 ## Getting Started
 
-To view my portfolio, simply visit [Your Website Link].
+To view my portfolio, simply visit Your Website https://nadeemahmad-portfolio.netlify.app/.
 
